@@ -174,8 +174,7 @@ shopmate-ai/
 ShopMate AI demonstrates how **RAG + Real-Time Data + LLMs** can be combined to build a **production-ready intelligent shopping assistant** with a modern UI and scalable backend.
 
 ---
-## 👨‍💻 Author
-**Aditya Tripathi**
+
 
 ## 👨‍💻 Author
 **Aditya Tripathi**
