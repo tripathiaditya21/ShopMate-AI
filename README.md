@@ -17,17 +17,17 @@ It combines:
 ## 🖼️ Application Preview
 
 ### 🔐 Authentication (Login / Signup)
-![Login UI](./assets/login.png)
+![Login UI](./assests/login.png)
 
 ---
 
 ### 💬 Chat Interface (Sidebar + AI Assistant)
-![Chat UI](./assets/chat-dashboard.png)
+![Chat UI](./assests/chat-dashboard.png)
 
 ---
 
 ### 🛍️ AI Product Recommendations
-![Product Cards](./assets/product-recommendations.png)
+![Product Cards](./assests/product-recommendations.png)
 
 ---
 
